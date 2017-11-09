@@ -1,0 +1,3 @@
+= ODL - TP6 - Design patterns
+François Roland <francois.roland@umons.ac.be>
+2017-11-08
